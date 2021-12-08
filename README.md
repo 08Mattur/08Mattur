@@ -14,6 +14,9 @@ During this I am working on independant small projects to help improve my unders
   - SOSCSRPG.COM (Following this tutorial to make a game)
   - Advanced Football Data (As above however on a player basis. This means calculating strength as an average of the players in the current team rather than the overall strength of the team,
     this will take into account injured players, top goal scorers being sold, or strong defenders being suspended.)
+   
+   
+This is my portfolio where I will be putting the above projects for public viewing.
  
 
 <!---
